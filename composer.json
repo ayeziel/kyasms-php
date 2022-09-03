@@ -1,0 +1,28 @@
+{
+    "name": "kyasms/kyasms-php",
+    "description": "kya sms php api",
+    "type": "library",
+    "require": {
+        "guzzlehttp/guzzle": "7.0",
+        "propaganistas/laravel-phone": "^4.2"
+    },
+    "require-dev": {
+        "propaganistas/laravel-phone": "^4.2",
+        "guzzlehttp/guzzle": "7.0"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "AYELEROU IBOUKON"
+        }
+    ],
+    "minimum-stability": "stable",
+    "autoload": {
+        "psr-4": {
+            "kyasms\\App\\": "src"
+        },
+        "files": [
+            "src/helpers.php"
+        ]
+    }
+}
