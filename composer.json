@@ -16,7 +16,7 @@
             "name": "AYELEROU IBOUKON"
         }
     ],
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
     "autoload": {
         "psr-4": {
             "kyasms\\App\\": "src"
