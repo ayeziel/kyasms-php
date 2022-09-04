@@ -5,7 +5,7 @@
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
-        'reference' => '1d5b9f76848f48ce466bee39cde09f7b6c4ba5a5',
+        'reference' => 'e8b1bbaae461111ec72772a2bb1f2568e42347e1',
         'name' => 'kyasms/kyasms-php',
         'dev' => true,
     ),
@@ -148,7 +148,7 @@
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
-            'reference' => '1d5b9f76848f48ce466bee39cde09f7b6c4ba5a5',
+            'reference' => 'e8b1bbaae461111ec72772a2bb1f2568e42347e1',
             'dev_requirement' => false,
         ),
         'league/iso3166' => array(
